@@ -1,11 +1,12 @@
+---
 permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from:
-
-/about/
-/about.html
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 I'm a senior at the University of North Carolina Wilmington pursuing a B.S. in Computer Science with a Minor in Cybersecurity (expected May 2026). My work sits at the crossroads of technology, security, and law — I'm passionate about protecting innovation and plan to pursue a career in patent law after graduation.
