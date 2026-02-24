@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**University of North Carolina Wilmington**  
+B.S. Computer Science, Minor in Cybersecurity *(August 2022 – May 2026)*  
+Activities: UNCW Ice Hockey | UNCW Cyber Defense Club | Phi Alpha Delta Pre-Law Fraternity | Undergraduate Research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Liberty University**  
+High School Diploma *(August 2014 – May 2019)*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Experience
+
+**Undergraduate Student Researcher** — UNC Wilmington *(January 2025 – Present)*  
+- Conducted research on fileless malware behavior, process injection, and memory-resident attack techniques
+- Coded (Python) an RNN-based detection system using Simple RNN, LSTM, GRU, and BiLSTM architectures trained on Volatility memory forensics datasets
+- Designed experiments in Kali Linux and Windows VMs to capture malicious and benign memory artifacts
+- Analyzed features including DLL loads, process hierarchies, and system call patterns for behavioral detection
+- Authored an IEEE research paper on deep-learning detection of fileless malware
+
+**Patent Analyst** — Neo IP *(May 2025 – August 2025)*  
+- Conducted patentability searches and drafted comprehensive reports evaluating inventions against U.S. and international prior art
+- Gained hands-on experience with USPTO prosecution processes across the full patent lifecycle
+
+**Guest Services Associate** — Blockade Runner Beach Resort *(June 2024 – November 2024)*  
+- Delivered customer service and managed hotel software to streamline operations
+- Secured 90% of walk-in traffic by implementing guest interaction strategies
+
+**Founder & Chief Executive Officer** — Flow Company Athletics *(January 2022 – February 2024)*  
+- Founded an e-commerce apparel company, overseeing logo and product design
+- Managed inventory and processed orders with a 99% on-time fulfillment rate
+
+**Cloud Architect Intern** — EDJX *(March 2022 – January 2023)*  
+- Built databases and deployed servers across multiple national data centers
+- Improved platform performance and reliability by 25% through optimized PaaS configurations
+
+---
+
+## Certifications
+
+- **Certified in Cybersecurity (CC)** — ISC² *(August 2024, expires August 2027)*
+- **ISC2 Candidate** — ISC² *(June 2024)*
+- **Using Python to Access Web Data** — University of Michigan / Coursera *(November 2021)*
+- **Python Data Structures** — University of Michigan / Coursera *(October 2021)*
+- **Programming for Everybody** — University of Michigan / Coursera *(September 2021)*
+
+---
+
+## Skills
+
+**Programming:** Python, C++, JavaScript  
+**Cybersecurity:** Kali Linux, Volatility, Memory Forensics, Network Security, Malware Analysis  
+**Tools & Platforms:** Git, Linux, Windows, PaaS/Cloud Infrastructure  
+**Legal/IP:** Patentability Analysis, USPTO Prosecution, Prior Art Research, Intellectual Property Law  
+**Other:** Algorithm Design, Deep Learning, RNN/LSTM Architectures, Edge Computing
