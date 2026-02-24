@@ -3,14 +3,14 @@ locale                   : "en-US"
 title                    : "Noah M. Preston"
 title_separator          : "-"
 name                     : &name "Noah M. Preston"
-description              : &description "CS Student | Cybersecurity Minor | Aspiring Patent Attorney | UNCW"
+description              : &description "CS Student | Cybersecurity Minor | UNCW"
 url                      : https://NMPreston.github.io
 baseurl                  : ""
 repository               : "NMPreston/NMPreston.github.io"
 
 # SEO
-google_site_verification :
-bing_site_verification   :
+# google_site_verification :
+# bing_site_verification   :
 
 # Site Author
 author:
