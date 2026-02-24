@@ -15,7 +15,7 @@ bing_site_verification   :
 # Site Author
 author:
   name             : *name
-  avatar           : "images/IMG_2101.JPG"
+  avatar           : "images/profile.png"
   bio              : "B.S. Computer Science student at UNCW with a Minor in Cybersecurity. Undergraduate researcher in malware behavior. Patent Analyst intern. Aspiring Patent Attorney at the intersection of technology and law."
   location         : "Wilmington, NC"
   employer         :
