@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior at the **University of North Carolina Wilmington** pursuing a B.S. in Computer Science with a Minor in Cybersecurity (expected May 2026). My work sits at the crossroads of technology, security, and law — I'm passionate about protecting innovation and plan to pursue a career in **patent law** after graduation.
+I'm a senior at the **University of North Carolina Wilmington** pursuing a B.S. in Computer Science with a Minor in Cybersecurity. My work sits at the crossroads of technology, security, and law; I'm passionate about protecting innovation and plan to pursue a career in **patent law** after graduation.
 
 ## Research
 
-As an **Undergraduate Student Researcher** at UNCW (January 2025 – Present), I investigate advanced threat techniques with a focus on fileless malware detection:
+As an **Undergraduate Student Researcher** at UNCW (January 2025 – May 2026), I investigate advanced threat techniques with a focus on fileless malware detection:
 
 - Conducted research on fileless malware behavior, process injection, and memory-resident attack techniques
 - Coded (Python) an RNN-based detection system using Simple RNN, LSTM, GRU, and BiLSTM architectures trained on Volatility memory forensics datasets
